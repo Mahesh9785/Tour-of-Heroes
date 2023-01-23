@@ -1,0 +1,24 @@
+/* AppComponent's private CSS styles */
+
+h1 {
+  margin-bottom: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav a {
+  padding: 1rem;
+  text-decoration: none;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: inline-block;
+  background-color: #c9d596;
+  color: #5e3af0;
+  border-radius: 4px;
+}
+
+nav a:hover {
+  color: rgb(47, 225, 88);
+  background-color: #58a3c4;
+}
+nav a:active {
+  background-color: black;
+}
